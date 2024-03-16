@@ -8,7 +8,7 @@
         "quantity": 42
     },
     {
-        fruitId": "2",
+        "fruitId": "2",
         "name": "Peach", 
         "price": "4.2", 
         "image": "https://avatars.mds.yandex.net/get-mpic/1884605/img_id1242619302172383831.jpeg/6hq", 
@@ -16,14 +16,14 @@
 
     },
     {
-        fruitId": "3",
+        "fruitId": "3",
         "name": "Pear", 
         "price": "3.8", 
         "image": "http://www.gaujard.fr/1433-home_default/poirier-beurre-giffard.jpg", 
         "quantity": 0
     },
     {
-        fruitId": "4",
+        "fruitId": "4",
         "name": "Grape", 
         "price": "2.7", 
         "image": "https://vkusniymir.uz/image/cache/catalog/01-250x250.jpg", 
